@@ -1,2 +1,3 @@
 1st line of merge
 
+3rd merge branch line added

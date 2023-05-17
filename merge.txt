@@ -1,2 +1,3 @@
 1st line of merge
 
+2nd line added

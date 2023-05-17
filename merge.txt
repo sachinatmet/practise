@@ -1,1 +1,2 @@
-feature 2 practise for 3 way merge
+1st line of merge
+
